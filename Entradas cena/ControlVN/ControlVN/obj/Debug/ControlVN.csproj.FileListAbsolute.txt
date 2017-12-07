@@ -1,0 +1,8 @@
+D:\Alex Rodríguez\Desktop\Entradas cena\ControlVN\ControlVN\obj\Debug\ControlVN.exe
+D:\Alex Rodríguez\Desktop\Entradas cena\ControlVN\ControlVN\obj\Debug\ControlVN.pdb
+D:\Alex Rodríguez\Desktop\Entradas cena\ControlVN\ControlVN\bin\Debug\ControlVN.exe
+D:\Alex Rodríguez\Desktop\Entradas cena\ControlVN\ControlVN\bin\Debug\ControlVN.pdb
+D:\Alex Rodríguez\Desktop\Entradas cena\ControlVN\ControlVN\obj\Debug\ControlVN.csprojResolveAssemblyReference.cache
+D:\Alex Rodríguez\Desktop\Entradas cena\ControlVN\ControlVN\obj\Debug\ControlVN.Form1.resources
+D:\Alex Rodríguez\Desktop\Entradas cena\ControlVN\ControlVN\obj\Debug\ControlVN.Properties.Resources.resources
+D:\Alex Rodríguez\Desktop\Entradas cena\ControlVN\ControlVN\obj\Debug\ControlVN.csproj.GenerateResource.Cache
